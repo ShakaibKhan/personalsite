@@ -6,5 +6,6 @@
 <title>Shakaib Khan's Website</title>
 <h1>Shakaib Khan</h1>
 <div class="info_module" id="projects"><img src="images/wrench.png" height="42" width="42"></div>
+<div class="info_module" id="resume"><img src="images/resume.png" height="42" width="42"></div>
 </body>
 </html>
